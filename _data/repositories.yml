@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - PatrickPata
+  - Pelagic-Ecosystems
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Pelagic-Ecosystems/Zooplankton_trait_database
+  - Pelagic-Ecosystems/BC_Zooplankton_Bioregionalization
+  - PatrickPata/Calanus_Arctic_lipid_pump
+  - PatrickPata/Marine-organism-line-art
+  - biome-upmsi/Philippine-connectivity
