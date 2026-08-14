@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Researcher, <a href='https://www.takuvik.ulaval.ca/laboratoire-frederic-maps/'>Takuvik - Université Laval</a>. 
+subtitle: Postdoctoral Researcher, <a href='https://www.takuvik.ulaval.ca/laboratoire-frederic-maps/'> Takuvik - Université Laval</a>. 
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: prof_pic_color.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Pavillon Alexandre-Vachon, Université Laval</p>
