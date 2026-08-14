@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Researcher<a href='https://www.takuvik.ulaval.ca/laboratoire-frederic-maps/'>Takuvik - Université Laval</a>. 
+subtitle: Postdoctoral Researcher, <a href='https://www.takuvik.ulaval.ca/laboratoire-frederic-maps/'>Takuvik - Université Laval</a>. 
 
 profile:
   align: right
