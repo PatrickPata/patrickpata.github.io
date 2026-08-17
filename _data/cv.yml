@@ -220,21 +220,21 @@ cv:
       - number: Pata, P.R., Deauna, J.D., Borja-del Rosario, R., Yñiguez A.T., and Villanoy, C. (2014, Jul) Emergent spatiotemporal distribution patterns of an individual-based biophysical model of early life stage sardines (Sardinella lemuru) in the southern Philippines. 11th Annual Meeting of the Asia Oceania Geosciences Society, Sapporo, Japan. [Poster presentation]
 
     Invited Lectures:
-      - number: 6 Aug 2026: “Oceanography 101” Vancouver Summer Program, University of British Columbia, Canada.
-      - number: 7 Aug 2024: “Bridging species level and community level processes using trait-based approaches in zooplankton ecology.” 4th Philippine Planktology Lecture Series, online.
-      - number: 28-29 Jul 2024: “Zooplankton trait data harmonization and interoperability.” Virtual Summit: Incorporating Data Science and Open Science in Aquatic Research, online. 
-      - number: 4 Sep 2023: “Development and applications of a global harmonized zooplankton trait database.” FishBase Symposium, online.
-      - number: 10 Oct 2021: “Persistence of biogeographic regions across 20-years of zooplankton community observations in the British Columbia coastal ocean.” Physical Oceanography Seminar, University of British Columbia, Vancouver, Canada.
-      - number: 12 Mar 2021: “Bioregionalization of zooplankton communities.” Institute of Ocean Sciences Seminar, Fisheries and Oceans Canada, online.
+      - number: 6 Aug 2026':' “Oceanography 101” Vancouver Summer Program, University of British Columbia, Canada.
+      - number: 7 Aug 2024':' “Bridging species level and community level processes using trait-based approaches in zooplankton ecology.” 4th Philippine Planktology Lecture Series, online.
+      - number: 28-29 Jul 2024':' “Zooplankton trait data harmonization and interoperability.” Virtual Summit':' Incorporating Data Science and Open Science in Aquatic Research, online. 
+      - number: 4 Sep 2023':' “Development and applications of a global harmonized zooplankton trait database.” FishBase Symposium, online.
+      - number: 10 Oct 2021':' “Persistence of biogeographic regions across 20-years of zooplankton community observations in the British Columbia coastal ocean.” Physical Oceanography Seminar, University of British Columbia, Vancouver, Canada.
+      - number: 12 Mar 2021':' “Bioregionalization of zooplankton communities.” Institute of Ocean Sciences Seminar, Fisheries and Oceans Canada, online.
 
     Collaborative scientific activities organized:
-      - number: 27 Feb 2025: Session convener: Zooplankton Functional Role':' From Quantifying Functional Traits at the Individual Level to Large-Scale Estimates. Ocean Sciences Meeting 2026, Glasgow, United Kingdom.
-      - number: 3 Dec 2025: Workshop organizer: Biodiversity and Ecosystem Functioning (BEF) relationship and how this relates to traits. TRAITZOO Project, Agence Nationale de la Recherche (ANR), online.
-      - number: 6 Aug 2025: Discussion leader: Biodiversity, Ecosystem Functions, and Traits. 7th Workshop on Trait-based Approaches to Ocean Life, Pacific Grove, California, USA.
-      - number: 18 Jun 2025: Workshop organizer: Traits and biological scale in mechanistic explanations. TRAITZOO Project, Agence Nationale de la Recherche (ANR), Pairs, France.
-      - number: 2 Apr 2025: Workshop organizer: Extending the theory of ecological communities to traits. TRAITZOO Project, Agence Nationale de la Recherche (ANR), online.
-      - number: 17 Mar 2024: Workshop organizer: Approaches towards findable, accessible, interoperable and reusable (FAIR) zooplankton trait data as stepping stones to improved functional ecology. 7th ICES-PICES Zooplankton Production Symposium, Tasmania, Australia.
-      - number: 20-24 Feb 2023: Working group leader: Linking species distributions and traits to understand ecosystem functioning, Living Data Project. Vancouver, Canada.
+      - number: 27 Feb 2025':' Session convener':' Zooplankton Functional Role':' From Quantifying Functional Traits at the Individual Level to Large-Scale Estimates. Ocean Sciences Meeting 2026, Glasgow, United Kingdom.
+      - number: 3 Dec 2025':' Workshop organizer':' Biodiversity and Ecosystem Functioning (BEF) relationship and how this relates to traits. TRAITZOO Project, Agence Nationale de la Recherche (ANR), online.
+      - number: 6 Aug 2025':' Discussion leader':' Biodiversity, Ecosystem Functions, and Traits. 7th Workshop on Trait-based Approaches to Ocean Life, Pacific Grove, California, USA.
+      - number: 18 Jun 2025':' Workshop organizer':' Traits and biological scale in mechanistic explanations. TRAITZOO Project, Agence Nationale de la Recherche (ANR), Pairs, France.
+      - number: 2 Apr 2025':' Workshop organizer':' Extending the theory of ecological communities to traits. TRAITZOO Project, Agence Nationale de la Recherche (ANR), online.
+      - number: 17 Mar 2024':' Workshop organizer':' Approaches towards findable, accessible, interoperable and reusable (FAIR) zooplankton trait data as stepping stones to improved functional ecology. 7th ICES-PICES Zooplankton Production Symposium, Tasmania, Australia.
+      - number: 20-24 Feb 2023':' Working group leader':' Linking species distributions and traits to understand ecosystem functioning, Living Data Project. Vancouver, Canada.
 
     Awards and research grants:
       - name: Québec Océan Travel Grant
