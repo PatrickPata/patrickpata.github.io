@@ -87,48 +87,358 @@ cv:
         summary: 
         highlights:
 
-    Experience at sea:
+    Peer-reviewed publications:
+      - title: Functional characteristics of zooplankton bioregions along the cross-shelf gradient
+        authors:
+        - '***P.R. Pata***'
+        - M. Galbraith 
+        - K. Young
+        - A.R. Sastri
+        - R.I. Perry
+        - B.P.V. Hunt
+        doi: 
+        url:
+        journal: Progress in Oceanography
+        issue: 238, 103559
+        date: 2025
 
-    Awards and grants:
+      - title: Pathways for converting zooplankton traits to ecological insight are paved with Findable, Accessible, Interoperable and Reusable (FAIR) data practices. 
+        authors:
+        - J. Titocci
+        - '***P.R. Pata***'
+        - T. Durazzano
+        - '[21 others]'
+        journal: ICES Journal of Marine Science
+        issue: 82(2), fsaf017
+
+      - title: Data-driven determination of zooplankton bioregions and robustness analysis
+        authors:
+        - '***P.R. Pata***'
+        - M. Galbraith 
+        - K. Young
+        - A. Margolin
+        - R.I. Perry
+        - B.P.V. Hunt
+        doi: 
+        url:
+        journal: MethodsX
+        issue: 12, 102676
+        date: 2024
+
+      - title: Harmonizing marine zooplankton trait data towards a mechanistic understanding of ecosystem functioning
+        authors:
+        - '***P.R. Pata***'
+        - B.P.V. Hunt        
+        journal: Limnology and Oceanography
+        issue: 70, 8–27. 
+        date: 2023
+
+      - title: Persistent zooplankton bioregions reflect long-term consistency of community composition and oceanographic drivers in the NE Pacific
+        authors:
+        - '***P.R. Pata***'
+        - M. Galbraith 
+        - K. Young
+        - A. Margolin
+        - R.I. Perry
+        - B.P.V. Hunt
+        doi: 
+        url:
+        journal: Progress in Oceanography
+        issue: 206, 102849
+        date: 2022
+
+      - title: Assessing the representation of species included within the Canadian Living Planet Index
+        authors:
+        - Currie, J.
+        - Blain, S.A.
+        - Emry, S.
+        - Hebert K.
+        - Xie, G.
+        - Moore, N.
+        - Wang, X.
+        - Brown, A.
+        - Burant, J.B.
+        - Grevstad, L.
+        - Marconi, V.
+        - McRae, L.
+        - Mezzini, S.
+        - '***P.R. Pata***'
+        - R. Freeman
+        journal: FACETS
+        issue: 7, 1121-1141
+        date: 2022
+
+      - title: Spatial planning insights for Philippine coral reef conservation using larval connectivity networks
+        authors:
+        - '***P.R. Pata***'
+        - A.T. Yñiguez 
+        journal: Frontiers in Marine Science
+        issue: 8, 719691
+        date: 2021
+        
+      - title: Insights into the environmental conditions contributing to variability in the larval recruitment of the tropical sardine Sardinella lemuru
+        authors:
+        - '***P.R. Pata***'
+        - A.T. Yñiguez 
+        - J.D. Deauna
+        - A.B. De Guzman
+        - C.R. Jimenez
+        - R. Borja-del Rosario
+        - C. Villanoy
+        journal: Ecological Modelling
+        issue: 451, 109570
+        date: 2021
+        
+      - title: Combining information on otolith morphometrics and larval connectivity models to infer stock structure of Plectropomus leopardus in the Philippines
+        authors:
+        - J.P. Cabasan
+        - H.O. Arceo
+        - '***P.R. Pata***'
+        - K.L. Labrador
+        - R.B. Casauay
+        - N. Miller
+        - M.V.B. Rodriguez  
+        journal: Marine Ecology Progress Series
+        issue: 679, 115-131
+        date: 2021
+        
+      - title: Larval connectivity patterns of the North Indo-West Pacific coral reefs
+        authors:
+        - '***P.R. Pata***'
+        - A.T. Yñiguez 
+        journal: PLoS ONE
+        issue:  14(7), e0219913
+        date: 2019
+
+    Selected conference presentations (7 out of 17):
+      - number: Pata, P.R., Vilgrain, L., Aubry, C., Bourreau, Ayata, S.D., and Maps, F. (2026, February). Quantifying the role of copepods to the lipidscape and lipid pump of an Arctic Sea using in situ images. Ocean Sciences Meeting 2026, Glasgow, United Kingdom. [Oral presentation]
+      - number: Pata, P.R., Aubry, C., Bourreau, Vilgrain, L., Ayata, S.D., and Maps, F. (2025, August). Deriving the Arctic lipidscape by extracting traits from in situ images of copepods and the spatiotemporal variation in copepod ecosystem functions. 7th Workshop on Trait-based Approaches to Ocean Life, Pacific Grove, USA. [Oral presentation]
+      - number: Pata, P.R., Galbraith, M., Young, K., Sastri, A., Perry, R.I., and Hunt, B.P.V. (2024, March). Extracting region-specific trait values of functional groups from a global zooplankton trait database. 7th Zooplankton Production Symposium, Hobart, Australia. [Oral presentation]
+      - number: Pata, P.R. and Hunt, B.P.V. (2023, Jun). Developing a global harmonized zooplankton trait database. Association for the Sciences of Limnology and Oceanography 2023 Aquatic Sciences Meeting, Mallorca, Spain. [Poster presentation]
+      - number: Pata, P.R., Galbraith, M., Young, K., Perry, I., and Hunt, B.P.V. (2019, Oct). Sensitivity analysis on zooplankton bioregionalization of British Columbia. North Pacific Marine Science Organization (PICES) Annual Meeting, Victoria, Canada. (Best Poster Award) 
+      - number: Pata, P.R. and Yñiguez A.T. (2017, Jul) Insights on national coral reef conservation from a regional connectivity network analysis. 14th National Symposium of the Philippine Association of Marine Science, Batangas, Philippines. (Best Poster Award)
+      - number: Pata, P.R., Deauna, J.D., Borja-del Rosario, R., Yñiguez A.T., and Villanoy, C. (2014, Jul) Emergent spatiotemporal distribution patterns of an individual-based biophysical model of early life stage sardines (Sardinella lemuru) in the southern Philippines. 11th Annual Meeting of the Asia Oceania Geosciences Society, Sapporo, Japan. [Poster presentation]
+
+    Invited Lectures:
+      - number: 6 Aug 2026: “Oceanography 101” Vancouver Summer Program, University of British Columbia, Canada.
+      - number: 7 Aug 2024: “Bridging species level and community level processes using trait-based approaches in zooplankton ecology.” 4th Philippine Planktology Lecture Series, online.
+      - number: 28-29 Jul 2024: “Zooplankton trait data harmonization and interoperability.” Virtual Summit: Incorporating Data Science and Open Science in Aquatic Research, online. 
+      - number: 4 Sep 2023: “Development and applications of a global harmonized zooplankton trait database.” FishBase Symposium, online.
+      - number: 10 Oct 2021: “Persistence of biogeographic regions across 20-years of zooplankton community observations in the British Columbia coastal ocean.” Physical Oceanography Seminar, University of British Columbia, Vancouver, Canada.
+      - number: 12 Mar 2021: “Bioregionalization of zooplankton communities.” Institute of Ocean Sciences Seminar, Fisheries and Oceans Canada, online.
+
+    Collaborative scientific activities organized:
+      - number: 27 Feb 2025: Session convener: Zooplankton Functional Role':' From Quantifying Functional Traits at the Individual Level to Large-Scale Estimates. Ocean Sciences Meeting 2026, Glasgow, United Kingdom.
+      - number: 3 Dec 2025: Workshop organizer: Biodiversity and Ecosystem Functioning (BEF) relationship and how this relates to traits. TRAITZOO Project, Agence Nationale de la Recherche (ANR), online.
+      - number: 6 Aug 2025: Discussion leader: Biodiversity, Ecosystem Functions, and Traits. 7th Workshop on Trait-based Approaches to Ocean Life, Pacific Grove, California, USA.
+      - number: 18 Jun 2025: Workshop organizer: Traits and biological scale in mechanistic explanations. TRAITZOO Project, Agence Nationale de la Recherche (ANR), Pairs, France.
+      - number: 2 Apr 2025: Workshop organizer: Extending the theory of ecological communities to traits. TRAITZOO Project, Agence Nationale de la Recherche (ANR), online.
+      - number: 17 Mar 2024: Workshop organizer: Approaches towards findable, accessible, interoperable and reusable (FAIR) zooplankton trait data as stepping stones to improved functional ecology. 7th ICES-PICES Zooplankton Production Symposium, Tasmania, Australia.
+      - number: 20-24 Feb 2023: Working group leader: Linking species distributions and traits to understand ecosystem functioning, Living Data Project. Vancouver, Canada.
+
+    Awards and research grants:
+      - name: Québec Océan Travel Grant
+        date: 2025
+        issuer: Québec Océan 
+        summary: 2000 CAD
+
+      - name: Transnational and Remote Access Scheme eLTER Grant
+        date: 2025
+        issuer: European Long-Term Ecosystem Research
+        summary: 1400 CAD 
+
+      - name: Paul J. Harrison Memorial Award in Oceanography
+        date: 2024
+        issuer: EOAS, University of British Columbia
+        summary: 2800 CAD
+
+      - name: Zooplankton Production Symposium Travel Grant
+        date: 2023
+        issuer: ICES-PICES
+        summary: 1400 CAD
+
+      - name: EOAS Graduate Scholarship
+        date: 2023
+        issuer: EOAS, University of British Columbia
+        summary: 1500 CAD
+
+      - name: ASLO Student Travel Grant
+        date: 2023
+        issuer: Association for the Sciences of Limnology and Oceanography
+        summary: 800 USD
+
+      - name: CIEE-Living Data Project Working Group Organization
+        date: 2022
+        issuer: Canadian Institute of Ecology and Evolution
+        summary: 13800 CAD
+
+      - name: W.H. Mathews Scholarship
+        date: 2022
+        issuer: EOAS, University of British Columbia
+        summary: 5000 CAD
+
+      - name: NSERC Alexander Graham Bell Canada Graduate Scholarship-Doctoral
+        date: 2021
+        issuer: Natural Sciences and Engineering Research Council of Canada
+        summary: 105000 CAD
+
+      - name: Paul J. Harrison Memorial Award in Oceanography
+        date: 2021
+        issuer: EOAS, University of British Columbia
+        summary: 4300 CAD
+
+      - name: IBS Student Travel Award
+        date: 2021
+        issuer: International Biogeography Society
+        summary: 500 USD
+
+      - name: 4YF Four-year Doctoral Fellowship
+        date: 2020
+        issuer: University of British Columbia
+        summary: 72800 CAD (18200 CAD used)
+
+      - name: MSc Scholarship
+        date: 2016
+        issuer: Marine Environment and Resources Foundation, Inc.
+        summary: ~7000 USD
+
+    Experience at sea:
+      - name: FoxSIPP Cruise on CCGS Amundsen
+        location: Foxe Basin, Canadian Arctic
+        institution: Takuvik International Laboratory, Université Laval 
+        start_date: 2 October 2025
+        end_date: 22 October 2025
+        tasks: zooplankton and fish sampling, UVP6 profiles
+
+      - name: Small-vessel field sampling
+        location: Howe Sound, British Columbia, Canada
+        institution: Institute for the Oceans and Fisheries, University of British Columbia
+        start_date: 11 August 2022 and 18 May 2023
+        end_date: 
+        tasks: zooplankton and eDNA sampling
+
+      - name: Hakai Explorer and small-vessel sampling
+        location: Quadra Island and Bute Inlet, British Columbia, Canada
+        institution: Institute for the Oceans and Fisheries, University of British Columbia
+        start_date: 4 July 2022
+        end_date: 14 July 2022
+        tasks: zooplankton, POM, stable isotopes, and fatty acids sampling
+
+      - name: Bohol Sea–Zamboanga Upwelling Cruise on MV DA-BFAR
+        location: Bohol Sea and Zamboanga Peninsula, Philippines
+        institution: Marine Science Institute, University of the Philippines Diliman 
+        start_date: 2 March 2014
+        end_date: 10 Marh 2014
+        tasks: phytoplankton, zooplankton, and nutrients sampling, multi-wavelength fluorometer profiles, flow-through underway maintenance
+        
+      - name: Luzon Strait Cruise on RV Roger Revelle
+        location: Luzon Strait, Philippines
+        institution: Scripps Institute of Oceanography, University of California
+        start_date: 7 May 2013
+        end_date: 16 May 2013
+        tasks: Fast CTD profiles
+        
+      - name: Bohol Sea–Zamboanga Upwelling Cruise on MV DA-BFAR
+        location: Bohol Sea and Zamboanga Peninsula, Philippines
+        institution: Marine Science Institute, University of the Philippines Diliman 
+        start_date: 18 February 2013
+        end_date: 26 February 2013
+        tasks: phytoplankton, zooplankton, and nutrients sampling, multi-wavelength fluorometer profiles, flow-through underway maintenance
+
+      - name: Various small-vessel field work at different coastal seas of the Philippines
+        location: Philippines
+        institution: Marine Science Institute, University of the Philippines Diliman 
+        start_date: 2012
+        end_date: 2016
+        tasks: phytoplankton, zooplankton, and nutrients sampling, multi-wavelength fluorometer profiles, CTD and ADCP profiles, coral core drilling, fish gonad identification, light trap
+
+    Academic trainings and courses attended:
+      - name: Research Project Management Training
+        start_date: 22 January 2026
+        end_date: 
+        issuer: Canadian Association for Graduate Studies
+        location: online
+
+      - name: Instructional Skills Workshop
+        start_date: 3 February 2024
+        end_date: 11 February 2024
+        issuer: Center for Teaching, Learning, and Technology University of British Columbia
+        location: Vancouver, Canada
+
+      - name: Certificate in Synthetic and Collaborative Science 
+        start_date: 4 October 2021
+        end_date: 28 October 2021
+        issuer: Canadian Institute of Ecology and Evolution
+        location: Vancouver, Canada
+
+      - name: Living Data Project working group
+        start_date: 30 August 2021
+        end_date: 3 September 2021
+        issuer: Canadian Institute of Ecology and Evolution
+        location: online
+
+      - name: WestGrid Research Computing Summer School
+        start_date: 24 June 2019
+        end_date: 28 June 2019
+        issuer: University of British Columbia
+        location: Vancouver, Canada
+
+      - name: South-East Asia Network for Education and Training (SEA-NET) Project Summer Intern
+        start_date: 1 August 2016
+        end_date: 30 September 2016
+        issuer: Institute of Oceanography, National Taiwan University
+        location: Taipei, Taiwan
+
+      - name: Training in ASEAN Oceanography
+        start_date: 13 October 2014
+        end_date: 17 October 2014
+        issuer: Marine and Coastal Resources Network Conference
+        location: Phuket, Thailan
 
     Skills:
-      - name: Computer Programming
-        level: Master
-        icon: fa-solid fa-hashtag
+      - name: Computer programming
+        icon: fa-solid 
         keywords: "R, Matlab, Java, Python"
 
-      - name: Numerical Ecology
-        level: Master
-        icon: fa-solid fa-hashtag
+      - name: Numerical ecology
+        icon: fa-solid 
         keywords: "univariate statistics, multivariate statistics, ensemble cluster analysis, GAM, SEM, phylogenetic imputation, graph theory models"
  
-      - name: Ecological and ocean Modelling
-        level: Master
-        icon: fa-solid fa-hashtag
+      - name: Ecological and ocean modelling
+        icon: fa-solid
         keywords: "individual-based, ordinary differential equations, species distribution, HYCOM, Delft3d"
 
-      - name: Machine Learning
-        level: Competent
-        icon: fa-solid fa-hashtag
+      - name: Machine learning
+        icon: fa-solid 
         keywords: "convolutional neural networks, random forest, boosted regressions"
  
-      - name: Signal Processing
-        level: Competent
-        icon: fa-solid fa-hashtag
+      - name: Signal processing
+        icon: fa-solid 
         keywords: "empirical orthogonal function, fast fourier transform"
 
-    Languages:
-      - name: Visayan
-        summary: "Native speaker"
+      - name: Spatial data analysis
+        icon: fa-solid 
+        keywords: QGIS, Marxan
+        
+      - name: Oceanographic field sampling
+        icon: fa-solid 
+        keywords: nets, water sampling, optics, physical sensors
 
-      - name: Filipino
-        summary: "Fluent"
+      - name: Data management
+        icon: fa-solid 
+        keywords: database compilation, FAIR data compliance
 
-      - name: English
-        summary: "Fluent"
+      - name: Psychology
+        icon: fa-solid 
+        keywords: Developing psychometric scales and questionnaires, content analysis
 
-      - name: French
-        summary: "A1"
+      - name: Qualitative methods 
+        icon: fa-solid 
+        keywords: Administering workshops, stakeholder interviews, and focused group discussions
 
-      - name: Spanish
-        summary: "A1"
+      - name: CMAS 1-Star Open Water SCUBA diver
+        icon: fa-sloid
+
+      - name: Languages
+        icon: fa-solid 
+        keywords: Visayan (native), Filipino (fluent), English (fluent), French (A1), Spanish (A1)
