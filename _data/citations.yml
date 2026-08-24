@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-08-24'
 papers:
   hRqaOHEAAAAJ:3s1wT3WcHBgC:
-    citations: 17
+    citations: 18
     title: Spatial planning insights for Philippine coral reef conservation using larval connectivity networks
     year: '2021'
   hRqaOHEAAAAJ:D03iK_w7-QYC:
@@ -24,11 +24,11 @@ papers:
   hRqaOHEAAAAJ:a0OBvERweLwC:
     citations: 14
     title: Harmonizing marine zooplankton trait data toward a mechanistic understanding of ecosystem functioning
-    year: '2023'
+    year: '2025'
   hRqaOHEAAAAJ:b0M2c_1WBrUC:
     citations: 0
-    title: 'Traits Thesaurus: toward semantic harmonization of FAIR trait-based data on aquatic organisms'
-    year: Unknown Year
+    title: 'Traits Thesaurus: Toward semantic harmonisation of FAIR trait-based data on aquatic organisms'
+    year: '2026'
   hRqaOHEAAAAJ:bFI3QPDXJZMC:
     citations: 0
     title: '7th International Zooplankton Production Symposium: ECOP Experience'
@@ -54,6 +54,6 @@ papers:
     title: Combining information on otolith morphometrics and larval connectivity models to infer stock structure of Plectropomus leopardus in the Philippines
     year: '2021'
   hRqaOHEAAAAJ:u-x6o8ySG0sC:
-    citations: 40
+    citations: 41
     title: Larval connectivity patterns of the North Indo-West Pacific coral reefs
     year: '2019'
